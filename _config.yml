@@ -1,0 +1,28 @@
+name: visioncut
+favicon: null
+layout_spectrum: 0.8936340047512203
+typography_spectrum: 0.41284465533681214
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7834563315846026
+  lightness: 0.6677721568848938
+  saturation: 0.11559235211461782
+  rhythmicContrast: 0.18716669059358537
+purpose: []
