@@ -40,8 +40,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/145182488'
 title: FATE4LOVE (El Hombre de tu vida)
-datePublished: '2016-04-11T19:40:29.768Z'
-dateModified: '2016-04-11T19:27:36.560Z'
+datePublished: '2016-04-11T20:17:59.959Z'
+dateModified: '2016-04-11T20:15:14.363Z'
 sourcePath: _posts/2016-04-11-fate4love-el-hombre-de-tu-vida.md
 published: true
 inFeed: true
