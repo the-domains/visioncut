@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[visioncut]]></title>
+        <description><![CDATA[visioncut]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 18:49:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[EVENTOS - Video Comunicado Lanzadera Pre Fiesta Goyas]]></title>
+            <description><![CDATA[<article><h1>EVENTOS - Video Comunicado Lanzadera Pre Fiesta Goyas</h1><p>Entrevistas Recursos</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/93593288beb1b4ecace1468524968e2490544a0e.jpg"></article>]]></description>
+            <link>https://vimeopro.com/visioncut/eventos/video/119028879</link>
+            <guid isPermaLink="false">039d2e31-deb8-4560-bada-0bcdc6e87017</guid>
+            <pubDate>Mon, 11 Apr 2016 18:49:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
