@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[visioncut]]></title>
         <description><![CDATA[visioncut]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/visioncut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 19:41:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 19:41:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/visioncut/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Video Corporativo Tanqueray N 100 & Tea Tonic]]></title>
+            <description><![CDATA[<article><h1>Video Corporativo Tanqueray N 100 & Tea Tonic</h1><p>Este es un video corporativo realizado por Carlos Gonzalez para DIAGEO, por encargo de Communicate. El video se proyectará de forma interna y no busca fines publicitarios ni comerciales.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dff297280bbad4cbf01c10d9a558b13211c28272.jpg"></article>]]></description>
+            <link>https://vimeo.com/58537291</link>
+            <guid isPermaLink="false">35516691-2a98-4533-81f3-68e79795542c</guid>
+            <pubDate>Mon, 11 Apr 2016 19:40:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Silvia Marsó]]></title>
             <description><![CDATA[<article><h1>Silvia Marsó</h1><p>El fotógrafo Sergio Parra continúa con la segunda edición de "Bombones" en el Teatro Lara de Madrid. Tras Marta Etura, Iván Sánchez, Irene Escolar y Martín Rivas es el turno de Silvia Marsó. Más información sobre los trabajos de Sergio Parra en: www.sergioparra.es Más información sobre visioncut en: www.visioncut.es</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0332473a856f9be90ed6864a84bcbdb42de5bce9.jpg"></article>]]></description>
