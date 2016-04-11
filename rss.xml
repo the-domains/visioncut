@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[visioncut]]></title>
+        <description><![CDATA[visioncut]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 19:41:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Silvia Marsó]]></title>
+            <description><![CDATA[<article><h1>Silvia Marsó</h1><p>El fotógrafo Sergio Parra continúa con la segunda edición de "Bombones" en el Teatro Lara de Madrid. Tras Marta Etura, Iván Sánchez, Irene Escolar y Martín Rivas es el turno de Silvia Marsó. Más información sobre los trabajos de Sergio Parra en: www.sergioparra.es Más información sobre visioncut en: www.visioncut.es</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0332473a856f9be90ed6864a84bcbdb42de5bce9.jpg"></article>]]></description>
+            <link>https://vimeo.com/53479288</link>
+            <guid isPermaLink="false">1672caa6-fb01-4aab-a5eb-f8dacbdf0ff3</guid>
+            <pubDate>Mon, 11 Apr 2016 19:40:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
