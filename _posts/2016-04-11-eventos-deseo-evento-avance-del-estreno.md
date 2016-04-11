@@ -38,8 +38,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeopro.com/visioncut/eventos/video/66366490'
 title: 'EVENTOS - DESEO - Evento: Avance del estreno'
-datePublished: '2016-04-11T19:05:47.208Z'
-dateModified: '2016-04-11T19:02:56.983Z'
+datePublished: '2016-04-11T19:06:02.010Z'
+dateModified: '2016-04-11T19:05:24.427Z'
 sourcePath: _posts/2016-04-11-eventos-deseo-evento-avance-del-estreno.md
 published: true
 inFeed: true
