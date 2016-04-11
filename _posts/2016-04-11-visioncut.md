@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'VISIONCUT una firma audiovisual afincada en Madrid que realiza videos corporativos, publicidad, y contenidos audiovisuales bajo la dirección de Carlos González.'
-datePublished: '2016-04-11T18:36:34.674Z'
-dateModified: '2016-04-11T18:36:17.835Z'
+datePublished: '2016-04-11T18:49:56.530Z'
+dateModified: '2016-04-11T18:38:11.730Z'
 title: visioncut
 author: []
+sourcePath: _posts/2016-04-11-visioncut.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-11-visioncut.md
-published: true
 _type: Blurb
 
 ---
