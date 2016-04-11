@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://vimeo.com/145182488'
 inLanguage: null
 starred: false
 keywords: []
 description: 'Estamos rodando un corto con tres historias en tres ciudades: Habana, Madrid y Manhattan, y es en esta última donde conocemos a Marta, interpretada por Soraya Padrao, y con ella pasaremos de conocer el destino irremediable, a el tomar la responsabilidad de ser feliz.'
-datePublished: '2016-04-11T19:20:47.070Z'
-dateModified: '2016-04-11T19:18:18.378Z'
+datePublished: '2016-04-11T19:25:04.464Z'
+dateModified: '2016-04-11T19:24:45.640Z'
 author:
   - name: CARLOS GONZÁLEZ
     url: 'http://vimeo.com/visioncut'
@@ -50,6 +49,7 @@ publisher:
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+url: fate4love-el-hombre-de-tu-vida/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
