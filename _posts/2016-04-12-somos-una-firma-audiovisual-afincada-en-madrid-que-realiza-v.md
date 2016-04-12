@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Somos una firma audiovisual afincada en Madrid que realiza videos corporativos, publicidad, y contenidos audiovisuales bajo la dirección de Carlos González.'
-datePublished: '2016-04-12T01:34:57.227Z'
-dateModified: '2016-04-12T01:33:59.666Z'
+datePublished: '2016-04-12T01:43:36.877Z'
+dateModified: '2016-04-12T01:43:20.710Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-12-somos-una-firma-audiovisual-afincada-en-madrid-que-realiza-v.md
