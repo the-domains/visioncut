@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: VIDEOARTE
-datePublished: '2016-04-22T15:49:01.816Z'
-dateModified: '2016-04-22T15:48:31.919Z'
+datePublished: '2016-04-22T15:50:18.557Z'
+dateModified: '2016-04-22T15:49:50.651Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-videoarte.md
@@ -26,6 +26,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6d4eea4-620b-47f8-8e54-80885702393f.png)
 
 Una de las actividades de visioncut es la producción, edición y posproduccion para artistas plásticos internacionales. Entre los trabajos que hemos realizado se encuentran artistas de la talla de [Alexander Apostol][0] o [Alicia Framis][1].
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e3c4327-5123-40e6-88ea-84392175338b.png)
 
 Con Alexander Apostol colaboramos con la edición y posproducción de su [Teoría Básica del Color][2] a través de la cual, nos adentra en la compleja situación político-social de Venezuela con su trabajo CCC y Los Jinetes.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c49203-d720-42e6-b92f-41032e6b0b64.png)
