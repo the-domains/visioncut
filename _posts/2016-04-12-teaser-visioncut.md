@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/66061854'
+inLanguage: null
+keywords: []
+description: 'Teaser for visioncut audiovisuals Más información sobre visioncut en: www.visioncut.es'
+datePublished: '2016-04-22T23:08:18.060Z'
+dateModified: '2016-04-22T23:08:17.231Z'
 author:
   - name: CARLOS GONZÁLEZ
     url: 'http://vimeo.com/visioncut'
     avatar: {}
 related: []
-publisher:
-  url: 'https://vimeo.com/'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
-keywords: []
-description: 'Teaser for visioncut audiovisuals Más información sobre visioncut en: www.visioncut.es'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/66061854'
     type: ios
@@ -38,15 +40,16 @@ app_links:
     type: googleplay
     name: Vimeo
     id: com.vimeo.android.videoapp
-isBasedOnUrl: 'https://vimeo.com/66061854'
 title: teaser visioncut
-datePublished: '2016-04-12T00:46:45.123Z'
-dateModified: '2016-04-12T00:41:52.484Z'
 sourcePath: _posts/2016-04-12-teaser-visioncut.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com/'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
