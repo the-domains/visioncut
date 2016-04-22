@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[visioncut]]></title>
-        <description><![CDATA[visioncut]]></description>
+        <title><![CDATA[Producciones Audiovisuales]]></title>
+        <description><![CDATA[Producciones Audiovisuales]]></description>
         <link>https://thegrid.ai/visioncut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 01:34:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 15:21:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visioncut/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c49203-d720-42e6-b92f-41032e6b0b64.png">]]></description>
+            <link>https://thegrid.ai/visioncut/videoarte/index.html</link>
+            <guid isPermaLink="false">2fdfb3f7-79df-4640-a3c3-4a62e8c4c68a</guid>
+            <pubDate>Fri, 22 Apr 2016 15:20:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[teaser visioncut]]></title>
             <description><![CDATA[<article><h1>teaser visioncut</h1><p>Teaser for visioncut audiovisuals Más información sobre visioncut en: www.visioncut.es</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df5aeaf1e2402784ef68b387f463b2f99c8ea04a.jpg"></article>]]></description>
