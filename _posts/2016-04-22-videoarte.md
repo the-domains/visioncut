@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: VIDEOARTE
-datePublished: '2016-04-22T16:35:37.676Z'
-dateModified: '2016-04-22T16:35:08.425Z'
+datePublished: '2016-04-22T23:07:40.809Z'
+dateModified: '2016-04-22T22:38:18.374Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-videoarte.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: true
 url: videoarte/index.html
-_type: Article
+_type: Blurb
 
 ---
 **_[VIDEOARTE][0]_**
@@ -34,7 +34,7 @@ Con Alexander Apostol colaboramos con la edición y posproducción de su [Teorí
 En el caso de Alicia Framis realizamos un video conmemorativo de sus últimos 18 años de trabajo en su Retrospectiva [FRAMIS IN PROGRESS][4] Está dividida en tres partes: Arquitectura Social, Moda y Manifestaciones y Muros de deseos.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15285524-7db1-46aa-af7d-64a32cc2ea83.png)
 
-[0]: https://vimeopro.com/visioncut/videoarte/video/151331252
+[0]: https://vimeopro.com/visioncut/videoarte/
 [1]: http://www.alexanderapostol.com/
 [2]: http://www.aliciaframis.com/
 [3]: https://vimeopro.com/visioncut/alexanderapostol
