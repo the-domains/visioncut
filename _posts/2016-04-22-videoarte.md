@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: VIDEOARTE
-datePublished: '2016-04-22T16:34:59.883Z'
-dateModified: '2016-04-22T16:34:31.975Z'
+datePublished: '2016-04-22T16:35:37.676Z'
+dateModified: '2016-04-22T16:35:08.425Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-videoarte.md
