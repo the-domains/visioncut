@@ -4,7 +4,7 @@
         <description><![CDATA[visioncut]]></description>
         <link>https://thegrid.ai/visioncut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 20:57:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2016 20:57:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visioncut/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,6 +26,13 @@
             <link>https://vimeo.com/145182488</link>
             <guid isPermaLink="false">c39f7e95-a3b2-4380-b393-f8118f754a31</guid>
             <pubDate>Mon, 11 Apr 2016 20:17:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Menudos Corazones (Making Of)]]></title>
+            <description><![CDATA[<article><h1>Menudos Corazones (Making Of)</h1><p>Este es un Making of del Spot dirigido por Norberto Lopez Amado para la fundación Menudos Corazones que se lanzará en diciembre como video viral. Una...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1238875968d931788afd30d112b2985359367d27.jpg"></article>]]></description>
+            <link>https://vimeo.com/140743704</link>
+            <guid isPermaLink="false">2d470781-54be-49ce-a534-168f89dd308d</guid>
+            <pubDate>Mon, 11 Apr 2016 19:40:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
