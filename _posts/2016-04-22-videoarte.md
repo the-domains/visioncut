@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: VIDEOARTE
-datePublished: '2016-04-22T15:20:45.876Z'
-dateModified: '2016-04-22T15:20:29.905Z'
+datePublished: '2016-04-22T15:21:30.545Z'
+dateModified: '2016-04-22T15:20:59.894Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-22-videoarte.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-22-videoarte.md
-published: true
+starred: true
 url: videoarte/index.html
 _type: Article
 
