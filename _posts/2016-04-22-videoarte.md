@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: VIDEOARTE
-datePublished: '2016-04-22T15:39:00.383Z'
-dateModified: '2016-04-22T15:36:28.591Z'
+datePublished: '2016-04-22T15:49:01.816Z'
+dateModified: '2016-04-22T15:48:31.919Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-videoarte.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 **_VIDEOARTE_**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6d4eea4-620b-47f8-8e54-80885702393f.png)
 
 Una de las actividades de visioncut es la producción, edición y posproduccion para artistas plásticos internacionales. Entre los trabajos que hemos realizado se encuentran artistas de la talla de [Alexander Apostol][0] o [Alicia Framis][1].
 
