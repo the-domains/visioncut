@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: DOCUMENTAL / MAKING OF
-datePublished: '2016-04-23T00:16:34.042Z'
-dateModified: '2016-04-23T00:09:07.451Z'
+datePublished: '2016-04-23T02:53:05.105Z'
+dateModified: '2016-04-23T01:12:45.295Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-documental-making-of.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: documental-making-of/index.html
 _type: Article
 
