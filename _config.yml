@@ -1,6 +1,6 @@
 name: visioncut
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.75255
 typography_spectrum: 0.15108
 title: visioncut
 cta:
@@ -22,7 +22,7 @@ color:
     - '#cdcac7'
     - '#000000'
     - '#59feff'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 1
   saturation: 0
   rhythmicContrast: 1
