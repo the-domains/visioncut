@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: VIDEOARTE
-datePublished: '2016-04-23T02:53:35.756Z'
-dateModified: '2016-04-22T23:13:09.207Z'
+datePublished: '2016-04-24T01:07:49.581Z'
+dateModified: '2016-04-24T01:07:46.122Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-22-videoarte.md
@@ -17,9 +17,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: videoarte/index.html
-_type: Article
+_type: Blurb
 
 ---
 **_[VIDEOARTE][0]_**
