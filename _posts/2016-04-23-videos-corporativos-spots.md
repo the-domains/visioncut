@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: VIDEOS CORPORATIVOS / SPOTS
-datePublished: '2016-04-24T01:12:55.174Z'
-dateModified: '2016-04-24T01:12:52.616Z'
+datePublished: '2016-04-24T19:34:20.577Z'
+dateModified: '2016-04-24T19:32:17.064Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-videos-corporativos-spots.md
