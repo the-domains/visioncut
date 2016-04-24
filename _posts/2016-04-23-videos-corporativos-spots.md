@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: VIDEOS CORPORATIVOS / SPOTS
-datePublished: '2016-04-23T02:56:51.034Z'
-dateModified: '2016-04-23T02:56:50.741Z'
-title: 'Dentro del campo de los videos corporativos hemos trabajado con bebidas como TANKERAY, or conceptos innovadores de venta online de ropa de bebe reciclada como KETEKELO, catálogos de ropa de baño masculina de la línea RED.'
+datePublished: '2016-04-24T01:05:46.832Z'
+dateModified: '2016-04-24T01:05:44.498Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-23-videos-corporativos-spots.md
 published: true
@@ -17,14 +17,14 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: videos-corporativos-spots/index.html
-_type: Article
+_type: Blurb
 
 ---
 [**VIDEOS CORPORATIVOS / SPOTS**][0]
 
-## Dentro del campo de los videos corporativos hemos trabajado con bebidas como [**TANKERAY**][1], or conceptos innovadores de venta online de ropa de bebe reciclada como [**KETEKELO**][2], catálogos de ropa de baño masculina de la línea [**RED**][3].
+Dentro del campo de los videos corporativos hemos trabajado con bebidas como [**TANKERAY**][1], or conceptos innovadores de venta online de ropa de bebe reciclada como [**KETEKELO**][2], catálogos de ropa de baño masculina de la línea [**RED**][3].
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19a4bcfc-52dd-418f-aa89-a34174017178.png)
 
 También se hicieron una serie de spots como campaña [**anti-tabaco**][4] ideada para el MSSSI, aunque nunca se llegaron a emitir por los famosos recortes que obligaron a centrar la atencion en la violencia de género. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cf54971-daa4-4fca-ad38-738ecfafe17f.png)
