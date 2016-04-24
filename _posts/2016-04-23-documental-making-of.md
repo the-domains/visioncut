@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: DOCUMENTAL / MAKING OF
-datePublished: '2016-04-23T02:53:05.105Z'
-dateModified: '2016-04-23T01:12:45.295Z'
+datePublished: '2016-04-24T01:13:25.021Z'
+dateModified: '2016-04-24T01:13:22.172Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-documental-making-of.md
