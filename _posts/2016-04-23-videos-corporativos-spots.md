@@ -1,13 +1,12 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: VIDEOS CORPORATIVOS / SPOTS
-datePublished: '2016-04-25T10:14:21.784Z'
-dateModified: '2016-04-25T10:14:20.487Z'
+datePublished: '2016-04-25T11:25:05.223Z'
+dateModified: '2016-04-25T11:25:03.580Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-videos-corporativos-spots.md
@@ -19,7 +18,8 @@ publisher:
   url: null
   favicon: null
 starred: false
-_type: Blurb
+url: videos-corporativos-spots/index.html
+_type: Article
 
 ---
 [**VIDEOS CORPORATIVOS / SPOTS**][0]
