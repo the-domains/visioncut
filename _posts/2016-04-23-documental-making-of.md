@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: DOCUMENTAL / MAKING OF
-datePublished: '2016-04-25T10:14:24.223Z'
-dateModified: '2016-04-25T10:13:39.884Z'
+datePublished: '2016-04-25T11:25:58.631Z'
+dateModified: '2016-04-25T11:25:17.691Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-documental-making-of.md
