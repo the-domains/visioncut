@@ -1,4 +1,4 @@
-name: visioncut2
+name: visioncut
 favicon: null
 layout_spectrum: 0.48044
 typography_spectrum: 0.15108
@@ -22,8 +22,8 @@ color:
     - '#cdcac7'
     - '#000000'
     - '#59feff'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
+  brandStrength: 0.0625
+  lightness: 0.8125
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
