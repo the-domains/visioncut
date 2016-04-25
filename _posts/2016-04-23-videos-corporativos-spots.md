@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: VIDEOS CORPORATIVOS / SPOTS
-datePublished: '2016-04-24T19:34:20.577Z'
-dateModified: '2016-04-24T19:32:17.064Z'
+datePublished: '2016-04-25T00:33:39.958Z'
+dateModified: '2016-04-24T19:57:19.633Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-videos-corporativos-spots.md
