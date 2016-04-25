@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: DOCUMENTAL / MAKING OF
-datePublished: '2016-04-24T19:33:45.069Z'
-dateModified: '2016-04-24T19:33:44.462Z'
+datePublished: '2016-04-25T00:34:06.261Z'
+dateModified: '2016-04-25T00:34:00.919Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-documental-making-of.md
@@ -18,8 +19,7 @@ publisher:
   url: null
   favicon: null
 starred: true
-url: documental-making-of/index.html
-_type: Article
+_type: Blurb
 
 ---
 DOCUMENTAL / MAKING OF
