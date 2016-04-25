@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: VIDEOS CORPORATIVOS / SPOTS
-datePublished: '2016-04-25T00:33:51.408Z'
-dateModified: '2016-04-25T00:33:48.335Z'
+datePublished: '2016-04-25T10:14:11.499Z'
+dateModified: '2016-04-25T10:12:28.441Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-videos-corporativos-spots.md
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 _type: Blurb
 
 ---
